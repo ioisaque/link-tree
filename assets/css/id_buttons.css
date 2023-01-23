@@ -1,0 +1,91 @@
+.btn {
+    color: #fff !important;
+    border: none !important;
+    box-shadow: none !important;
+}
+.btn:hover,
+.btn:focus,
+.btn:active {
+    opacity: 0.92;
+}
+.btn-themecolor {
+    background-color: #5292b1;
+}
+.btn-neutral {
+    background-color: #707070;
+}
+.btn-black {
+    background-color: #000000;
+}
+.btn-info {
+    background-color: #1976d2;
+}
+.btn-success {
+    background-color: #28a745;
+}
+.btn-warning {
+    background-color: #ffb22b;
+}
+.btn-athenas {
+    background-color: #f36700;
+}
+.btn-danger {
+    background-color: #f9142a;
+}
+.btn-quinzel {
+    background-color: #820bcd;
+}
+.btn-emoji {
+    background-color: #8b4513;
+}
+.btn-master {
+    background-color: #133d63;
+}
+.btn-facebook {
+    background-color: #3b5998;
+}
+.btn-twitter {
+    background-color: #55acee;
+}
+.btn-linkedin {
+    background-color: #007bb6;
+}
+.btn-whatsapp {
+    background-color: #25d366;
+}
+.btn-dribbble {
+    background-color: #ea4c89;
+}
+.btn-googleplus {
+    background-color: #dd4b39;
+}
+.btn-instagram {
+    background-color: #3f729b;
+}
+.btn-pinterest {
+    background-color: #cb2027;
+}
+.btn-dropbox {
+    background-color: #007ee5;
+}
+.btn-flickr {
+    background-color: #ff0084;
+}
+.btn-tumblr {
+    background-color: #32506d;
+}
+.btn-skype {
+    background-color: #00aff0;
+}
+.btn-youtube {
+    background-color: #bb0000;
+}
+.btn-github {
+    background-color: #171515;
+}
+.btn-ideyou {
+    background-color: #ff5356;
+}
+.card-footer.p-0 .btn {
+    border-radius: inherit;
+}

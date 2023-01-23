@@ -1,0 +1,15 @@
+{
+    "id": "Links IdeYou",
+    "name": "Links IdeYou",
+    "app_name": "Links IdeYou",
+    "short_name": "Links IdeYou",
+    "scope": "./?",
+    "start_url": "./?",
+    "orientation": "portrait",
+    "display": "fullscreen",
+    "theme_color": "#ff5356",
+    "background_color": "#33CC66",
+    "icons": [
+      { "src": "https://cdn.ideyou.com.br/assets/favicons/launch_logo.png", "sizes": "1080x1080", "type": "image/png" }
+    ]
+  }
