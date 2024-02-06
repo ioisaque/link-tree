@@ -1,3 +1,7 @@
+@import url("https://fonts.googleapis.com/css?family=Poppins:100,200,300,400,500,600,700,800,900");
+@import url(../scss/icons/material-design-iconic-font/css/materialdesignicons.min.css);
+@import url(../scss/icons/font-awesome/css/font-awesome.min.css);
+
 html {
   background-color: #ffffff80;
 }

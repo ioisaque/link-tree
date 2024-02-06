@@ -10,6 +10,6 @@
     "theme_color": "#ff5356",
     "background_color": "#33CC66",
     "icons": [
-      { "src": "https://cdn.ideyou.com.br/assets/favicons/launch_logo.png", "sizes": "1080x1080", "type": "image/png" }
+      { "src": "https://cdn.ideyou.com.br/assets/logos/new/logofull-b.png", "sizes": "1080x1080", "type": "image/png" }
     ]
   }
